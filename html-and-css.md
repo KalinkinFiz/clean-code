@@ -374,4 +374,4 @@ HTML5 рекомендуется для всех видов HTML-докумен�
   
 ```
 
-## [Продвинутый уровень](https://github.com/rolling-scopes-school/tasks/blob/master/stage1/modules/clean-code/materials/html-and-css-extended.md)
+## [Продвинутый уровень](https://github.com/KalinkinFiz/clean-code/blob/main/html-and-css-extended.md)
