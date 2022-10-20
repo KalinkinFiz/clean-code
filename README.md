@@ -56,6 +56,3 @@ refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md
     - +0,8 за каждое ПОЛНОСТЬЮ выполненное правило.
 
 Внимание! Аккуратно выполняйте переименование атрибутов, не пропустив ни единного их вхождения, включая JS-файлы.
-
-## Cross-check
-- форма для проверки задания: https://rolling-scopes-school.github.io/checklist/ (пункт "Clean code S1E1");
